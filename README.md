@@ -8,7 +8,6 @@ Para tal desenvolvimento, foram utilizadas as seguintes tecnologias:
 - .NET 7 que pode ser encontrada [aqui](https://dotnet.microsoft.com/pt-br/download)
 - [HotChocolate](https://chillicream.com/docs/hotchocolate/v13) (13.3.1) para o GraphQL
 - Bogus (34.0.2) para gerar contas fakes.
-- alguma coisa pros testes
 
 ---
 

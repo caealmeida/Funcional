@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Banco\\BancoAPI\\BancoAPI.csproj": {}
+    "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Funcional\\Banco\\BancoAPI\\BancoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Banco\\BancoAPI\\BancoAPI.csproj": {
+    "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Funcional\\Banco\\BancoAPI\\BancoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Banco\\BancoAPI\\BancoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Funcional\\Banco\\BancoAPI\\BancoAPI.csproj",
         "projectName": "BancoAPI",
-        "projectPath": "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Banco\\BancoAPI\\BancoAPI.csproj",
+        "projectPath": "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Funcional\\Banco\\BancoAPI\\BancoAPI.csproj",
         "packagesPath": "C:\\Users\\caeta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Banco\\BancoAPI\\obj\\",
+        "outputPath": "C:\\Users\\caeta\\Documents\\Caetano\\Funcional\\Funcional\\Banco\\BancoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

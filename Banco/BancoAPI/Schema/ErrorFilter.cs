@@ -9,4 +9,3 @@ public class ErrorFilter : IErrorFilter
         return error.WithMessage(error.Exception.Message);
     }
 }
-}

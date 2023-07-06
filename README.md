@@ -12,7 +12,7 @@ Para tal desenvolvimento, foram utilizadas as seguintes tecnologias:
 ---
 
 Para rodar o projeto, siga os passos a seguir:
-1. Clone o projeto com ``` git@github.com:caealmeida/Funcional.git ```
+1. Clone o projeto
 
 2. Selecione "**Banco.API**" nas opções de inicio e clique no play
 
